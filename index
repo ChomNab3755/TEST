@@ -53,7 +53,7 @@
       </ol>
     </ul>
     <a href="https://en.wikipedia.org/wiki/Poipet_Municipality" target="_blank"
-      ><img src="/Image/poipet.jpg" alt="" align="right" width="150"
+      ><img src="poipet.jpg" alt="" align="right" width="150"
     /></a>
     <ul>
       <li class="pp">ក្រុងប៉ោយប៉ែត</li>
@@ -68,7 +68,7 @@
     <a
       href="https://en.wikipedia.org/wiki/Mongkol_Borey_district"
       target="_blank"
-      ><img src="/Image/mongul burei.jpg" alt="" align="right" width="150"
+      ><img src="mongul burei.jpg" alt="" align="right" width="150"
     /></a>
     <ul>
       <li class="pp">ស្រុកមង្គលបុរី</li>
@@ -82,3 +82,4 @@
     </ul>
   </body>
 </html>
+
